@@ -205,6 +205,6 @@ or
 nodeunit test/restler.js
 ```
 
-TODO
+Fork
 ----
-* What do you need? Let me know or fork.
+Forked to provide options for HTTP keep alive and socket pooling behaviour.
